@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Output Bookmarks</title><style>body { font-family: Arial, sans-serif; }.container { display: flex; flex-wrap: wrap; }.card { box-sizing: border-box; padding: 15px; margin: 15px; border: 1px solid #ccc; border-radius: 5px; flex: 0 0 calc(33.33% - 30px); }.card h3 { margin: 0 0 10px; }</style></head><body><div class='container'><div class='card'><h3><a href='https://beta.elevenlabs.io/speech-synthesis' target='_blank'>https://beta.elevenlabs.io/speech-synthesis</a></h3><p>Category: Other</p><p>Response: /
 
 This is a site that lets you enter text and hear it spoken. It’s a neat little site. It’s not a replacement for a real speech synthesizer, but it’s fun to play with.
@@ -35,3 +36,6 @@ I am going to use the following sentence:
 This site is a great way to have a voice driven song.
 
 I am</p></div></div></body></html>
+=======
+<iframe src="index.html" width="100%" height="500"></iframe>
+>>>>>>> 10238d7b2198e0f0123d25368e5785aa90787ab9

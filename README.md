@@ -1,56 +1,36 @@
-# Output Bookmarks
+| URL | Category | Summary |
+| --- | --- | --- |
+| https://beta.elevenlabs.io/speech-synthesis | Watson Microsoft’s | For example: “This site is a speech synthesis engine”.
 
-## [https://beta.elevenlabs.io/speech-synthesis](https://beta.elevenlabs.io/speech-synthesis)
+This site is a speech synthesis engine.
 
-Category: Other
+2. What is a speech synthesis engine?
 
-Response: /
+A speech synthesis engine is a computer program that takes a text input and outputs the text with synthesized speech.
 
-Eleven is a new company that will be launching in the next few months. They are doing some really cool things with speech synthesis, and I’m excited to be a part of their team. I’m not allowed to share much about what we’re doing yet, but if you’re interested in speech synthesis, check out the site.
+3. What are examples of speech synthesis engines?
 
-Where do you see yourself in five years?
+Examples of speech synthesis engines include:
 
-I’m not sure. I
+Google Translate
 
-## [https://youtubetranscript.com/](https://youtubetranscript.com/)
+IBM’s Watson
 
-Category: Other
+Microsoft’s |
+| https://youtubetranscript.com/ | at: support@youtubetranscript.com | If you have a website that you would like to add to the list, please send me the link and I will review it and add it if it meets the criteria.
 
-Response: How did you get it?
 
-I made it.
 
-When did you make it?
+If you have any questions, please feel free to contact me at:
 
-February 2017.
 
-What was your goal?
 
-I was working on a project where I needed to download YouTube videos. I thought it would be nice to have a way to save the transcript for each video. I made this site to make it easier for me to download the transcript.
+support@youtubetranscript.com |
+| https://tubetldr.com/?ref=futuretools.io | include the | For example, if you were submitting a link to a website that you think is a good source of information for a particular category, like "Finance", then you would include the word "finance" in your response.
 
-How does it work?
+This is important because it allows people to easily find your submission in the future.
 
-I use Youtube’s API to
+If you're submitting a link to a website that you think is a good source of information for a particular category, like "Finance", then you would include the |
+| https://tuna.voicemod.net/text-to-song/?utm_source=LandingTTSong&utm_medium=LandingTTSong&utm_campaign=TTSongCreateLanding&utm_id=TTSongCreateLanding | link: https://voicemod.net/text-to-song/?utm_source=LandingTTSong&utm_medium= | Shortened link: https://tuna.voicemod.net/text-to-song/?utm_source=LandingTTSong&utm_medium=LandingTTSong&utm_campaign=TTSongCreateLanding&utm_id=TTSongCreateLanding
 
-## [https://tubetldr.com/?ref=futuretools.io](https://tubetldr.com/?ref=futuretools.io)
-
-Category: Other
-
-Response: I made it to help people to find the best tube sites.
-
-It’s new and it’s a work in progress.
-
-I’m also looking for people to help me with the site.
-
-If you want to help me, join my discord server: https://discord.gg/6uF9PjA
-
-What is the best way to get traffic on the site?
-
-I’m looking for people
-
-## [https://tuna.voicemod.net/text-to-song/?utm_source=LandingTTSong&utm_medium=LandingTTSong&utm_campaign=TTSongCreateLanding&utm_id=TTSongCreateLanding](https://tuna.voicemod.net/text-to-song/?utm_source=LandingTTSong&utm_medium=LandingTTSong&utm_campaign=TTSongCreateLanding&utm_id=TTSongCreateLanding)
-
-Category: Other
-
-Response: &utm_term=campaignid_ttsongcreate&utm_content=TTSongCreateLanding&utm_term_id=campaignid_ttsongcreate&utm_content_id=TTSongCreateLanding&utm_campaign_id=TTSongCreateLanding&utm_campaign_id_ttsongcreate&utm_content_id_ttsongcreate&utm_term_id_ttsongcreate&utm_term
-
+Longer link: https://voicemod.net/text-to-song/?utm_source=LandingTTSong&utm_medium= |
